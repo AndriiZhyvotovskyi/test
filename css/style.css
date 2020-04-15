@@ -1,0 +1,218 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+    padding: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    
+}
+
+.main_container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0,0,0,0.15);
+}
+
+.main_aside {
+    background-color: #1e2939;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.main_aside img {
+    width: 370px;
+}
+
+.main_inform {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.aside_item {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 58px;
+    color: white;
+}
+
+.contacts_text, .skills {
+    margin-bottom: 52px;
+}
+
+.aside_item h3 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.aside_item p {
+    margin-bottom: 10px;
+}
+
+.contacts_type {
+    margin-right: 10px;
+    font-weight: 700;
+}
+
+.decoration_text {
+    text-decoration: underline;
+}
+
+.aside_item h3 {
+    font-weight: bold;
+}
+
+.aside_item a {
+    text-decoration: none;
+    color: #6d7179;
+}
+
+.skills ul {
+    color: #ff6b08;
+    padding-left: 20px;
+    
+}
+.skills li {
+    margin-bottom: 10px;
+}
+
+
+.skills_name {
+    color: white; 
+    margin: 0;
+}
+
+/***main_inform***/
+
+.main_inform {
+    background-color: #fff;
+}
+
+.abbout_me {
+   
+}
+
+.abbout_me h2 {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.abbout_me h1 {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.abbout_me p {
+    line-height: 24px;
+    margin-bottom: 64px;
+}
+
+/*********/
+
+.project {
+    margin-bottom: 54px;
+}
+
+.project h3 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.project_list {
+    padding-left: 15px;
+}
+
+.project_list li {
+    margin-bottom: 14px;
+    font-weight: 700;
+}
+
+.project_list a {
+    text-decoration: none;
+    color: #595959;
+}
+
+.light {
+    font-weight: 400;
+}
+
+.light_points {
+    font-weight: 100;
+    color: #bebebe;
+}
+
+/******/
+
+.experience {
+
+}
+
+.experience h3{
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 22px;
+}
+
+.experience_item {
+
+}
+
+.experience_item h4 {
+    font-size: 16px;
+    margin-bottom: 18px;
+}
+
+.experience_item ul {
+    color: #595959;
+}
+
+
+
+.color_grey {
+    color: #a8a8a8;
+    font-size: 12px;
+}
+
+.color_orange{
+    color: #ff6b08;
+}
+
+.experience_list {
+    padding-left: 16px;
+    margin-top: 18px;
+    margin-bottom: 26px;
+}
+
+.education {
+   margin-top: 58px;
+}
+
+.education h3{
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 24px;
+ }
+
+.education h4 {
+     font-size: 16px;
+     font-weight: 700;
+     margin-bottom: 18px;
+}
+
+.education h5 {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
+
